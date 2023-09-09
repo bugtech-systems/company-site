@@ -1,6 +1,7 @@
 .landing-container {
     display: flex;
     align-items: center;
+    word-break: break-all;
     /* flex-direction: row; */
 }
 
@@ -25,6 +26,8 @@
 .left-container p {
     font-size:larger;
     font-weight: 350;
+    word-break: break-all;
+    /* width: 50%; */
 }
 
 .icon {
@@ -50,8 +53,8 @@
     width: 350px;
 }
 
-.landing-imagHoe {
-    margin-right: 3rem;
+.landing-image {
+    margin-right: 4rem;
     height: 38rem;
     width: 38rem;
 }

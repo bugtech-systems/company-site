@@ -20,7 +20,7 @@ const Landing = () => {
                     The vendors can list their services and generate revenue using this laundry app.</p>
 
                 <button className="buttton">
-                    Get Your Free Qoute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BsArrowRight className="arrow-icon" color="#fff" size="35px" />
+                <p>Get Your Free Qoute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BsArrowRight className="arrow-icon" color="#fff" size="35px" /></p>
                     <p>All Projects are Secured by NDA</p>
                 </button>
             </div>
