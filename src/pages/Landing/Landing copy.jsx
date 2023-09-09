@@ -6,8 +6,6 @@ import {BiRightArrow} from "react-icons/bi";
 import Image from "../../assets/Easy-Clean-logo.png";
 import App from "../../assets/Easy-Clean-app.png.webp";
 
-import { landing } from '../../data';
-
 const Landing = () => {
   return (
         <section className="landing-container">

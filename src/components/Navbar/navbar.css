@@ -75,6 +75,11 @@
     margin-left: 5px;
   }
   
+    .contact-button:hover {
+        transform: scale(0.9);
+        transition-duration: 1s;
+    }
+
   .contact-button a {
     text-decoration: none;
     color: #fff;

@@ -53,10 +53,21 @@
     width: 350px;
 }
 
+.buttton:hover {
+    transform: scale(0.9);
+    transition-duration: 1s;
+}
+
 .landing-image {
     margin-right: 4rem;
     height: 38rem;
     width: 38rem;
+}
+
+.landing-image:hover {
+ 
+    transform: scale(0.9);
+    transition-duration: 1s;
 }
 
 .mark {

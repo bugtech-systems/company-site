@@ -1,0 +1,25 @@
+.typo-container {
+}
+
+.typo-container img {
+    width: 98%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.box-container {
+    display: flex;
+    flex-direction: row;
+    gap: .7rem;
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.box {
+    background: #d4af37;
+    width: 2.2vw;
+    height: 3.5vh;
+}
